@@ -137,7 +137,7 @@ npm run dev
 ## Credits
 - **Uber Eats Cart Scraper:** [github.com/Manas2006/uber-eats-cart-scraper](https://github.com/Manas2006/uber-eats-cart-scraper)
 - **Calorie NLP Model:** [github.com/Manas2006/calorie-nlp-model](https://github.com/Manas2006/calorie-nlp-model)
-- **App Author:** [Your Name Here]
+- **App Author:** Manas Pathak
 
 ---
 
