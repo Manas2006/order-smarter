@@ -30,7 +30,7 @@ Order Smarter lets you paste an Uber Eats group order link, scrapes the cart det
 
 | Screenshot 1 | Screenshot 2 | Screen Recording |
 |--------------|--------------|-----------------|
-| ![Screenshot 1](public/ordersmarter1.png) | ![Screenshot 2](public/ordersmarter2.png) | ![Screen Recording](public/public/os.mov) |
+| ![Screenshot 1](public/ordersmarter1.png) | ![Screenshot 2](public/ordersmarter2.png) | ![Screen Recording](public/os.mov) |
 
 ---
 
