@@ -30,7 +30,7 @@ Order Smarter lets you paste an Uber Eats group order link, scrapes the cart det
 
 | Screenshot 1 | Screenshot 2 | Screen Recording |
 |--------------|--------------|-----------------|
-| ![Screenshot 1](public/screenshot1.png) | ![Screenshot 2](public/screenshot2.png) | ![Screen Recording](public/screenrecording.gif) |
+| ![Screenshot 1](public/ordersmarter1.png) | ![Screenshot 2](public/ordersmarter2.png) | ![Screen Recording](public/screenrecording.gif) |
 
 > _Place your screenshots and screen recording in the `order-smarter/public/` folder as `screenshot1.png`, `screenshot2.png`, and `screenrecording.gif`._
 
